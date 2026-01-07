@@ -6,7 +6,7 @@ title: Home
 # Welcome
 
 Inline math works:  
-\( \nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon_0} \)
+$\int_0^a f(x) \, dx$
 
 Displayed math:
 
